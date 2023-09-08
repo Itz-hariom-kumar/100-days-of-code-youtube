@@ -1,4 +1,6 @@
-# Do-While loop in python
+#“The best way to forget the bad things in life is to learn to remember the good things.”
+# Do-While loop in python 
+
 do..while is a loop in which a set of instructions will execute at least once (irrespective of the condition) and then the repetition of loop's body will depend on the condition passed at the end of the while loop. It is also known as an exit-controlled loop.
 # How to emulate do while loop in python?
 To create a do while loop in Python, you need to modify the while loop a bit in order to get similar behavior to a do while loop.
